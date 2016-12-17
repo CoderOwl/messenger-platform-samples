@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "b373d3aabf195029896519ea76230f83",
+    "pageAccessToken": "EAADOWfuNV68BALy2e4XN2ZBbBmIedKAQcvCY65hOiA0lj7M4EetCaya7d48Tva5BpXYZAxJK2aDH3CawTty2pN0U2YEKZBbYO61atD54EcK0GXK4Dl5oPcIvFW2WBbexE7iWdUN0WP7l9jfBZCiDlLxCTkXTipLmWaY22TZBIFAZDZD",
+    "validationToken": "Revanth is Boss",
+    "serverURL": "https://shrouded-ocean-25587.herokuapp.com/"
 }
